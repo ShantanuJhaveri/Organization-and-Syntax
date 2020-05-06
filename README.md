@@ -1,8 +1,8 @@
-# Universal Cheat Sheet for MD file encoding
+# Universal Cheat Sheet for MD file encoding :globe_with_meridians:	
 Organizatonal tips and syntax rules when working with github and its markdown files 
 #### Sourcing
-##### [Sourcing for Syntax](https://guides.github.com/features/mastering-markdown/#syntax)
-##### [Sourcing for Emoji Cheat Sheet](https://guides.github.com/features/mastering-markdown/#syntax)
+[Sourcing for Syntax](https://guides.github.com/features/mastering-markdown/#syntax)
+[Sourcing for Emoji Cheat Sheet](https://guides.github.com/features/mastering-markdown/#syntax)
 
 ## Table of Contents
 - [Syntax](#syntax)
