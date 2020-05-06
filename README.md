@@ -1,3 +1,9 @@
+# Universal Cheat Sheet for MD file encoding
+Organizatonal tips and syntax rules when working with github and its markdown files 
+#### Sourcing
+##### [Sourcing for Syntax](https://guides.github.com/features/mastering-markdown/#syntax)
+##### [Sourcing for Emoji Cheat Sheet](https://guides.github.com/features/mastering-markdown/#syntax)
+
 ## Table of Contents
 - [Syntax](#syntax)
 - [Smileys & Emotion](#smileys--emotion)
