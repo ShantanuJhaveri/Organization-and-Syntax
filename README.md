@@ -1,5 +1,5 @@
 ## Table of Contents
-- [Syntax] (#syntax)
+- [Syntax](#Syntax)
 - [Smileys & Emotion](#smileys--emotion)
 - [People & Body](#people--body)
 - [Animals & Nature](#animals--nature)
@@ -13,12 +13,12 @@
 
 ### Syntax
 - [Headers](#headers)
-- [Emphasis] (#emphasis)
-- [Lists] (#lists)
-- [Images] (#images)
-- [Links] (#links)
-- [Blockquotes] (#blockquotes)
-- [Inline code] (#inline-code)
+- [Emphasis](#emphasis)
+- [Lists](#lists)
+- [Images](#images)
+- [Links](#links)
+- [Blockquotes](#blockquotes)
+- [Inline code](#inline-code)
 
 #### Headers
 hello
