@@ -1,11 +1,5 @@
-# emoji-cheat-sheet
-
-[![build](https://travis-ci.org/ikatyang/emoji-cheat-sheet.svg?branch=master)](https://travis-ci.org/ikatyang/emoji-cheat-sheet)
-
-This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
-
 ## Table of Contents
-
+- [Syntax] (#syntax)
 - [Smileys & Emotion](#smileys--emotion)
 - [People & Body](#people--body)
 - [Animals & Nature](#animals--nature)
@@ -16,6 +10,30 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Symbols](#symbols)
 - [Flags](#flags)
 - [GitHub Custom Emoji](#github-custom-emoji)
+
+### Syntax
+- [Headers](#headers)
+- [Emphasis] (#emphasis)
+- [Lists] (#lists)
+- [Images] (#images)
+- [Links] (#links)
+- [Blockquotes] (#blockquotes)
+- [Inline code] (#inline-code)
+
+#### Headers
+
+#### Emphasis
+
+#### Lists
+
+#### Images
+
+#### Links
+
+#### Blockquotes
+
+#### Inline Code
+
 
 ### Smileys & Emotion
 
